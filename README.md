@@ -60,17 +60,17 @@ cylab-security-academy-writeups/
 ## 💡 Technical Skills Demonstrated
 
 ### 🔬 Reverse Engineering & Code Analysis
-* **Static Analysis:** Reading and tracing Python and Java source code to map out program logic, input constraints, and validation rules without running untrusted code.
-* **Control Flow Mapping:** Reconstructing how programs validate keys and inputs character-by-character (e.g., tracing function checks in `check_key()`).
-* **Cryptographic Slicing:** Understanding how applications generate or verify keys using character slicing and index mapping over hash outputs (SHA-256).
+> **Static Analysis:** Reading and tracing Python and Java source code to map out program logic, input constraints, and validation rules without running untrusted code.
+> **Control Flow Mapping:** Reconstructing how programs validate keys and inputs character-by-character (e.g., tracing function checks in `check_key()`).
+> **Cryptographic Slicing:** Understanding how applications generate or verify keys using character slicing and index mapping over hash outputs (SHA-256).
 
 ### 🐍 Python Scripting & Security Automation
-* **Standard Library Mechanics:** Utilizing `hashlib`, `base64`, and `cryptography` (Fernet) modules to automate key generation, payload decryption, and hash verification.
-* **Command-Line One-Liners:** Executing Python inline scripts (`python3 -c`) to quickly inspect variables, evaluate hashes, or solve challenges directly inside the terminal.
-* **Interactive Debugging:** Using Python REPL sessions (`python3 -i`) and `pdb` to inspect dynamic variable states in memory at runtime.
+> **Standard Library Mechanics:** Utilizing `hashlib`, `base64`, and `cryptography` (Fernet) modules to automate key generation, payload decryption, and hash verification.
+> **Command-Line One-Liners:** Executing Python inline scripts (`python3 -c`) to quickly inspect variables, evaluate hashes, or solve challenges directly inside the terminal.
+> **Interactive Debugging:** Using Python REPL sessions (`python3 -i`) and `pdb` to inspect dynamic variable states in memory at runtime.
 
 ### 💻 Linux & Command-Line Operations
-* **Targeted File Search:** Using `grep -r`, `find`, and pattern matching to locate hidden flags across deeply nested directory structures.
-* **Text Processing & Streams:** Combining Unix piping (`|`), `tr`, `strings`, `cut`, and `awk` to extract clean metadata and plain text out of complex or binary file formats (like SVG XML trees).
-* **Archive & System Handling:** Managing file permissions (`chmod`), archive extraction (`unzip`, `tar`), and terminal-based file downloads (`wget`).
+> **Targeted File Search:** Using `grep -r`, `find`, and pattern matching to locate hidden flags across deeply nested directory structures.
+> **Text Processing & Streams:** Combining Unix piping (`|`), `tr`, `strings`, `cut`, and `awk` to extract clean metadata and plain text out of complex or binary file formats (like SVG XML trees).
+> **Archive & System Handling:** Managing file permissions (`chmod`), archive extraction (`unzip`, `tar`), and terminal-based file downloads (`wget`).
     
