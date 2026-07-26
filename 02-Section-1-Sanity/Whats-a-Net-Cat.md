@@ -30,7 +30,8 @@ nc fickle-tempest.picoctf.net 51437
 
 ## Screenshot
 
-![What's a Net Cat Solution](screenshots/whats_a_net_cat.png)
+![What's a Net Cat Solution] <img width="1835" height="273" alt="image" src="https://github.com/user-attachments/assets/5cb1ce6a-6297-441b-8582-37efd70fae91" />
+
 
 ## Skills Learned
 
