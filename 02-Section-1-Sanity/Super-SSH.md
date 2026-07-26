@@ -38,7 +38,8 @@ ssh ctf-player@titan.picoctf.net -p 52857
 
 ## Screenshot
 
-![Super SSH Solution] ![Uploading image.png…]()
+![Super SSH Solution] 
+<img width="2560" height="1600" alt="screenshot_20260725_160627" src="https://github.com/user-attachments/assets/71a0443d-f817-4b29-acad-a6b37736d825" />
 
 
 ## Skills Learned
