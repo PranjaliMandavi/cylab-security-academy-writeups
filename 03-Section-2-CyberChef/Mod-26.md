@@ -30,7 +30,8 @@ ROT13
 
 ## Screenshot
 
-![Mod 26]<img width="2560" height="1332" alt="image" src="https://github.com/user-attachments/assets/175ebdd5-6c1f-4fa6-8fa3-4d55579417d2" />
+![Mod 26] <img width="2560" height="1332" alt="screenshot_20260725_160800" src="https://github.com/user-attachments/assets/a4e88d2c-03a6-4899-89d5-21609b6a9e0f" />
+
 
 
 ## Skills Learned
