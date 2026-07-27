@@ -30,7 +30,8 @@ The resulting binary value was submitted to complete the challenge.
 
 ## Screenshot
 
-![2Warm] <img width="2560" height="1600" alt="screenshot_20260725_161304" src="https://github.com/user-attachments/assets/e2412622-8a5b-4b45-8f98-1aad92aad68f" />
+![2Warm] <img width="2560" height="1317" alt="screenshot_20260725_161604" src="https://github.com/user-attachments/assets/bd5a77b5-e319-47f7-8c66-bab835befb9d" />
+
 
 
 ## Skills Learned
