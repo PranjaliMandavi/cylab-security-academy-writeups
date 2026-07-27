@@ -32,7 +32,8 @@ From Base64
 
 ## Screenshot
 
-![Bases]<img width="2560" height="1600" alt="screenshot_20260725_162307" src="https://github.com/user-attachments/assets/ab703135-7e33-4b1b-9cb3-32adf710c304" />
+![Bases] <img width="2560" height="1351" alt="screenshot_20260725_162307" src="https://github.com/user-attachments/assets/8b6c216a-d18e-4900-8e61-5323f97eb26d" />
+
 
 
 ## Skills Learned
