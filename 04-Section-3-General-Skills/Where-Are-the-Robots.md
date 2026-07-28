@@ -44,7 +44,8 @@ The directory contained the page displaying the flag.
 
 ## Screenshot
 
-<img width="2560" height="1600" alt="screenshot_20260725_171536" src="https://github.com/user-attachments/assets/755d72e1-7967-4ee8-a2cc-726b513cca6c" />
+<img width="2560" height="299" alt="screenshot_20260725_171536" src="https://github.com/user-attachments/assets/a7ddd227-0289-4554-8278-07d74f979359" />
+
 <img width="2560" height="548" alt="screenshot_20260725_171545" src="https://github.com/user-attachments/assets/e58c48ab-dd65-4ce7-9ce4-43dd64960772" />
 
 
